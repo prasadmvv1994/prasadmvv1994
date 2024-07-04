@@ -1,4 +1,4 @@
-- Hi, I’m @prasadmvv1994
+- Hi, I’m @prasadmvv1994 (Prasad MVV)
 - I’m interested in Data Analytics
 - I’m currently learning Data Analytics course from Codebasics
 - I’m looking to collaborate on Data Analytics
