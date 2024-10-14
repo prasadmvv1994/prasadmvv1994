@@ -3,7 +3,7 @@
 - I’m currently learning Data Analytics course from Codebasics
 - I’m looking to collaborate on Data Analytics
 - I'm skilled in Excel, Advance Excel, SQL, Power BI, Python
-- If you want to reach me, please follow my Linkedin account **https://www.linkedin.com/in/mvenkatavaraprasad** and email **mvvprasad10@gmail.com**
+- If you want to reach me, please follow my Linkedin account **Link(https://www.linkedin.com/in/mvenkatavaraprasad)** and email **mvvprasad10@gmail.com**
 
 
 <!---
